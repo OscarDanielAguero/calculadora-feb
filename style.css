@@ -2,9 +2,9 @@
     @import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
 
     body{
-        background: #f6f5f7; 
+        background: #000000; 
         font-family: 'Montserrat', sans-serif;
-        color: #3E363F;
+        color: #ffffff;
     }
 
     #contenedor{
@@ -21,7 +21,7 @@
           0 10px 10px rgba(0,0,0,0.22);
       }
     #calculadora{
-        background: white;
+        background: rgb(44, 45, 47);
         /* Con estas 3 lineas vamos a hacer que los divs queden lado a lado */
         width: 50%;
         height: 100%;
@@ -29,7 +29,7 @@
     }
     
     #detalle{
-        background: #136ae2;
+        background: #0a346e;
         /* Con estas 3 lineas vamos a hacer que los divs queden lado a lado */
         width: 50%;
         height: 100%;
